@@ -8,6 +8,7 @@ Semi-transparent box: 85% (alpha)..plus find the rgb values for white
 grey border: #ddd
 
 Font (weight): Source Sans Pro (Normal, Bold), Merriweather(Bold, Bold Italic) & Oswald(Bold)
+https://fonts.google.com/?selection.family=Merriweather:700,700i|Oswald:700|Source+Sans+Pro:400,700&query=Oswald
 
 Logo: 30px, Merriweather, Bold
 Nav links: 20px
